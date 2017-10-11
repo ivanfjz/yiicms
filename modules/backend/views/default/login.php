@@ -52,8 +52,8 @@ $fieldOptions2 = [
         </div>
         <?php ActiveForm::end(); ?>
 
-        <div class="social-auth-links">
-            You may login with <strong>demo/demo</strong>.<br>
-        </div>
+<!--        <div class="social-auth-links">-->
+<!--            You may login with <strong>demo/demo</strong>.<br>-->
+<!--        </div>-->
     </div>
 </div>

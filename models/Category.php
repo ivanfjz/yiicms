@@ -14,6 +14,7 @@ use app\components\behaviors\UploadBehavior;
  * @property integer $id
  * @property string $name
  * @property integer $pid
+ * @property integer $level
  * @property string $path
  * @property string $image
  * @property integer $type
